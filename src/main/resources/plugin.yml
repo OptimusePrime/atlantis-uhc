@@ -1,0 +1,14 @@
+name: AtlantisUHC
+version: '${project.version}'
+main: com.optimuseprime.uhc.UHC
+api-version: 1.17
+authors: [OptimusePrime]
+commands:
+  uhc:
+    description: Command used to control UHC plugin.
+  scenarios:
+    description: UHC scenarios.
+  teaminventory:
+    description: Opens team inventory.
+  ti:
+    description: Opens team inventory.
